@@ -1,0 +1,10 @@
+What is the value of 2+2?_2_45_4_90_3
+What is the next value after 23?_24_22_20_21_1
+What is the value for 5!?_1_120_130_140_2
+What is the factorial of 3?_6_3_2_9_1
+Which is the largest?_9_7_5_8_1
+What is the value of 6+2?_2_45_8_90_3
+What is the next value after 32?_24_22_33_21_3
+What is the value for 2!?_2_1_3_4_1
+What is the factorial of 4?_6_3_2_24_4
+Which is the largest?_9_17_5_8_2
